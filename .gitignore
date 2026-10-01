@@ -1,0 +1,11 @@
+vendor/
+node_modules/
+npm-debug.log*
+.npm-cache/
+
+assets/admin/dist
+assets/public/dist
+
+/wp-plugin-boiler-plate/
+/wp-plugin-boiler-plate.zip
+/wp-plugin-boiler-plate.zip.tmp
